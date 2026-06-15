@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-06-13T22:00:00.000Z",
+  "source": "ESPN public API + verified manual results",
+  "totalLocked": 6,
+  "espnEvents": 0,
+  "results": {
+    "1": {"id":1,"home":"Mexico","away":"South Africa","homeScore":2,"awayScore":0,"locked":true,"status":"post","source":"Verified (Reuters/CBS)","updatedAt":"2026-06-11","penalties":false,"homePens":0,"awayPens":0,"homeAdvances":true},
+    "2": {"id":2,"home":"South Korea","away":"Czechia","homeScore":2,"awayScore":1,"locked":true,"status":"post","source":"Verified (Reuters/CBS)","updatedAt":"2026-06-11","penalties":false,"homePens":0,"awayPens":0,"homeAdvances":true},
+    "7": {"id":7,"home":"Canada","away":"Bosnia & Herzegovina","homeScore":1,"awayScore":1,"locked":true,"status":"post","source":"Verified (Canada Soccer/CBS)","updatedAt":"2026-06-12","penalties":false,"homePens":0,"awayPens":0,"homeAdvances":false},
+    "8": {"id":8,"home":"Qatar","away":"Switzerland","homeScore":1,"awayScore":1,"locked":true,"status":"post","source":"Verified (Yahoo Sports/ESPN)","updatedAt":"2026-06-13","penalties":false,"homePens":0,"awayPens":0,"homeAdvances":false},
+    "13": {"id":13,"home":"Brazil","away":"Morocco","homeScore":1,"awayScore":1,"locked":true,"status":"post","source":"Verified (Yahoo Sports/ESPN)","updatedAt":"2026-06-13","penalties":false,"homePens":0,"awayPens":0,"homeAdvances":false},
+    "19": {"id":19,"home":"USA","away":"Paraguay","homeScore":4,"awayScore":1,"locked":true,"status":"post","source":"Verified (Reuters/CBS)","updatedAt":"2026-06-13","penalties":false,"homePens":0,"awayPens":0,"homeAdvances":true}
+  }
+}

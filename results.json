@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-15T17:27:50.108557+00:00",
+  "updatedAt": "2026-06-15T23:26:12.381043+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 6,
+  "totalLocked": 8,
   "espnEvents": 4,
   "results": {
     "1": {
@@ -63,6 +63,36 @@
       "homeAdvances": true,
       "source": "Verified (Reuters/CBS)",
       "locked": true
+    },
+    "37": {
+      "id": 37,
+      "home": "Belgium",
+      "away": "Egypt",
+      "homeScore": 1,
+      "awayScore": 1,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-15T23:26:12.380815+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": false
+    },
+    "43": {
+      "id": 43,
+      "home": "Spain",
+      "away": "Cabo Verde",
+      "homeScore": 0,
+      "awayScore": 0,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-15T23:26:12.380774+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": false
     }
   }
 }

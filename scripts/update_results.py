@@ -74,14 +74,24 @@ def find_match(t1: str, t2: str):
 # Update this list as you personally verify results from reliable sources.
 # Source priority: Manual override > ESPN API
 MANUAL_VERIFIED = {
-    1:  {"id":1,  "home":"Mexico",  "away":"South Africa",      "homeScore":2,"awayScore":0, "homeAdvances":True,  "source":"Verified (Reuters/CBS)"},
-    2:  {"id":2,  "home":"South Korea","away":"Czechia",         "homeScore":2,"awayScore":1, "homeAdvances":True,  "source":"Verified (Reuters/CBS)"},
-    7:  {"id":7,  "home":"Canada",  "away":"Bosnia & Herzegovina","homeScore":1,"awayScore":1,"homeAdvances":False, "source":"Verified (Canada Soccer/CBS)"},
-    8:  {"id":8,  "home":"Qatar",   "away":"Switzerland",        "homeScore":1,"awayScore":1, "homeAdvances":False, "source":"Verified (Yahoo Sports/ESPN)"},
-    13: {"id":13, "home":"Brazil",  "away":"Morocco",            "homeScore":1,"awayScore":1, "homeAdvances":False, "source":"Verified (Yahoo Sports/ESPN)"},
-    19: {"id":19, "home":"USA",     "away":"Paraguay",           "homeScore":4,"awayScore":1, "homeAdvances":True,  "source":"Verified (Reuters/CBS)"},
-    # ── ADD NEW RESULTS HERE AS THEY COMPLETE ──
-    # Format: MATCH_ID: {"id":X,"home":"Team A","away":"Team B","homeScore":N,"awayScore":N,"homeAdvances":True/False,"source":"Verified (source)"},
+    # GROUP A
+    1:  {"id":1,  "home":"Mexico",        "away":"South Africa",        "homeScore":2,"awayScore":0,"homeAdvances":True,  "source":"Verified (Reuters/CBS)"},
+    2:  {"id":2,  "home":"South Korea",   "away":"Czechia",             "homeScore":2,"awayScore":1,"homeAdvances":True,  "source":"Verified (Reuters/CBS)"},
+    # GROUP B
+    7:  {"id":7,  "home":"Canada",        "away":"Bosnia & Herzegovina","homeScore":1,"awayScore":1,"homeAdvances":False, "source":"Verified (Canada Soccer)"},
+    8:  {"id":8,  "home":"Qatar",         "away":"Switzerland",         "homeScore":1,"awayScore":1,"homeAdvances":False, "source":"Verified (ESPN)"},
+    # GROUP C
+    13: {"id":13, "home":"Brazil",        "away":"Morocco",             "homeScore":1,"awayScore":1,"homeAdvances":False, "source":"Verified (ESPN)"},
+    14: {"id":14, "home":"Haiti",         "away":"Scotland",            "homeScore":0,"awayScore":1,"homeAdvances":False, "source":"Verified (CBS/ESPN)"},
+    # GROUP D
+    19: {"id":19, "home":"USA",           "away":"Paraguay",            "homeScore":4,"awayScore":1,"homeAdvances":True,  "source":"Verified (Reuters/CBS)"},
+    20: {"id":20, "home":"Australia",     "away":"Türkiye",             "homeScore":2,"awayScore":0,"homeAdvances":True,  "source":"Verified (FourFourTwo)"},
+    # GROUP E
+    25: {"id":25, "home":"Germany",       "away":"Curaçao",             "homeScore":7,"awayScore":1,"homeAdvances":True,  "source":"Verified (ESPN)"},
+    26: {"id":26, "home":"Côte d'Ivoire", "away":"Ecuador",             "homeScore":1,"awayScore":0,"homeAdvances":True,  "source":"Verified (ESPN)"},
+    # GROUP F
+    31: {"id":31, "home":"Netherlands",   "away":"Japan",               "homeScore":2,"awayScore":2,"homeAdvances":False, "source":"Verified (ESPN)"},
+    32: {"id":32, "home":"Sweden",        "away":"Tunisia",             "homeScore":5,"awayScore":1,"homeAdvances":True,  "source":"Verified (ESPN/FIFA)"},
 }
 
 def fetch_espn():

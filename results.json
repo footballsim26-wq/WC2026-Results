@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-15T23:26:12.381043+00:00",
+  "updatedAt": "2026-06-16T18:14:29.914747+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 8,
-  "espnEvents": 4,
+  "totalLocked": 14,
+  "espnEvents": 3,
   "results": {
     "1": {
       "id": 1,
@@ -31,7 +31,7 @@
       "homeScore": 1,
       "awayScore": 1,
       "homeAdvances": false,
-      "source": "Verified (Canada Soccer/CBS)",
+      "source": "Verified (Canada Soccer)",
       "locked": true
     },
     "8": {
@@ -41,7 +41,7 @@
       "homeScore": 1,
       "awayScore": 1,
       "homeAdvances": false,
-      "source": "Verified (Yahoo Sports/ESPN)",
+      "source": "Verified (ESPN)",
       "locked": true
     },
     "13": {
@@ -51,7 +51,17 @@
       "homeScore": 1,
       "awayScore": 1,
       "homeAdvances": false,
-      "source": "Verified (Yahoo Sports/ESPN)",
+      "source": "Verified (ESPN)",
+      "locked": true
+    },
+    "14": {
+      "id": 14,
+      "home": "Haiti",
+      "away": "Scotland",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeAdvances": false,
+      "source": "Verified (CBS/ESPN)",
       "locked": true
     },
     "19": {
@@ -62,6 +72,56 @@
       "awayScore": 1,
       "homeAdvances": true,
       "source": "Verified (Reuters/CBS)",
+      "locked": true
+    },
+    "20": {
+      "id": 20,
+      "home": "Australia",
+      "away": "T\u00fcrkiye",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeAdvances": true,
+      "source": "Verified (FourFourTwo)",
+      "locked": true
+    },
+    "25": {
+      "id": 25,
+      "home": "Germany",
+      "away": "Cura\u00e7ao",
+      "homeScore": 7,
+      "awayScore": 1,
+      "homeAdvances": true,
+      "source": "Verified (ESPN)",
+      "locked": true
+    },
+    "26": {
+      "id": 26,
+      "home": "C\u00f4te d'Ivoire",
+      "away": "Ecuador",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeAdvances": true,
+      "source": "Verified (ESPN)",
+      "locked": true
+    },
+    "31": {
+      "id": 31,
+      "home": "Netherlands",
+      "away": "Japan",
+      "homeScore": 2,
+      "awayScore": 2,
+      "homeAdvances": false,
+      "source": "Verified (ESPN)",
+      "locked": true
+    },
+    "32": {
+      "id": 32,
+      "home": "Sweden",
+      "away": "Tunisia",
+      "homeScore": 5,
+      "awayScore": 1,
+      "homeAdvances": true,
+      "source": "Verified (ESPN/FIFA)",
       "locked": true
     },
     "37": {

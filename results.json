@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-16T23:51:06.547931+00:00",
+  "updatedAt": "2026-06-17T13:02:09.441761+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 15,
-  "espnEvents": 3,
+  "totalLocked": 16,
+  "espnEvents": 5,
   "results": {
     "1": {
       "id": 1,
@@ -164,6 +164,21 @@
       "status": "post",
       "source": "ESPN (auto)",
       "updatedAt": "2026-06-16T23:51:06.547771+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
+    },
+    "56": {
+      "id": 56,
+      "home": "Austria",
+      "away": "Jordan",
+      "homeScore": 3,
+      "awayScore": 1,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-17T13:02:09.441579+00:00",
       "penalties": false,
       "homePens": 0,
       "awayPens": 0,

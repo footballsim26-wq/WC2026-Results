@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-18T11:40:32.881338+00:00",
+  "updatedAt": "2026-06-18T19:59:52.381846+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 17,
+  "totalLocked": 18,
   "espnEvents": 4,
   "results": {
     "1": {
@@ -23,6 +23,21 @@
       "homeAdvances": true,
       "source": "Verified (Reuters/CBS)",
       "locked": true
+    },
+    "4": {
+      "id": 4,
+      "home": "South Africa",
+      "away": "Czechia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-18T19:59:52.381622+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": false
     },
     "7": {
       "id": 7,

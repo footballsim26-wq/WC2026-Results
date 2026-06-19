@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-19T18:20:46.515779+00:00",
+  "updatedAt": "2026-06-19T22:12:41.504406+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 18,
+  "totalLocked": 19,
   "espnEvents": 4,
   "results": {
     "1": {
@@ -98,6 +98,21 @@
       "homeAdvances": true,
       "source": "Verified (FourFourTwo)",
       "locked": true
+    },
+    "21": {
+      "id": 21,
+      "home": "USA",
+      "away": "Australia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-19T22:12:41.504166+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
     },
     "25": {
       "id": 25,

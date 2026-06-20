@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-20T15:57:26.931046+00:00",
+  "updatedAt": "2026-06-20T20:51:54.578910+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 19,
+  "totalLocked": 20,
   "espnEvents": 3,
   "results": {
     "1": {
@@ -153,6 +153,21 @@
       "homeAdvances": true,
       "source": "Verified (ESPN/FIFA)",
       "locked": true
+    },
+    "33": {
+      "id": 33,
+      "home": "Netherlands",
+      "away": "Sweden",
+      "homeScore": 5,
+      "awayScore": 1,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-20T20:51:54.578755+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
     },
     "37": {
       "id": 37,

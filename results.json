@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-21T16:23:48.186105+00:00",
+  "updatedAt": "2026-06-21T20:58:52.497181+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 21,
+  "totalLocked": 22,
   "espnEvents": 5,
   "results": {
     "1": {
@@ -213,6 +213,21 @@
       "homePens": 0,
       "awayPens": 0,
       "homeAdvances": false
+    },
+    "45": {
+      "id": 45,
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "homeScore": 4,
+      "awayScore": 0,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-21T20:58:52.496968+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
     },
     "49": {
       "id": 49,

@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-20T20:51:54.578910+00:00",
+  "updatedAt": "2026-06-21T10:45:28.555590+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 20,
-  "espnEvents": 3,
+  "totalLocked": 21,
+  "espnEvents": 5,
   "results": {
     "1": {
       "id": 1,
@@ -164,6 +164,21 @@
       "status": "post",
       "source": "ESPN (auto)",
       "updatedAt": "2026-06-20T20:51:54.578755+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
+    },
+    "34": {
+      "id": 34,
+      "home": "Japan",
+      "away": "Tunisia",
+      "homeScore": 4,
+      "awayScore": 0,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-21T10:45:28.555373+00:00",
       "penalties": false,
       "homePens": 0,
       "awayPens": 0,

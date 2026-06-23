@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-23T17:30:09.868660+00:00",
+  "updatedAt": "2026-06-23T22:05:49.275515+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 23,
+  "totalLocked": 25,
   "espnEvents": 4,
   "results": {
     "1": {
@@ -284,6 +284,36 @@
       "status": "post",
       "source": "ESPN (auto)",
       "updatedAt": "2026-06-17T20:38:20.273989+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": false
+    },
+    "63": {
+      "id": 63,
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "homeScore": 5,
+      "awayScore": 0,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-23T22:05:49.275308+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
+    },
+    "69": {
+      "id": 69,
+      "home": "England",
+      "away": "Ghana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-23T22:05:49.275333+00:00",
       "penalties": false,
       "homePens": 0,
       "awayPens": 0,

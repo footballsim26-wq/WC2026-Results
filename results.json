@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-24T17:31:22.236923+00:00",
+  "updatedAt": "2026-06-24T22:01:53.253389+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 25,
+  "totalLocked": 27,
   "espnEvents": 6,
   "results": {
     "1": {
@@ -58,6 +58,36 @@
       "homeAdvances": false,
       "source": "Verified (ESPN)",
       "locked": true
+    },
+    "11": {
+      "id": 11,
+      "home": "Canada",
+      "away": "Switzerland",
+      "homeScore": 1,
+      "awayScore": 2,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-24T22:01:53.253196+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": false
+    },
+    "12": {
+      "id": 12,
+      "home": "Bosnia & Herzegovina",
+      "away": "Qatar",
+      "homeScore": 3,
+      "awayScore": 1,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-24T22:01:53.253172+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
     },
     "13": {
       "id": 13,

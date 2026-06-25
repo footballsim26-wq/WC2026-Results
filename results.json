@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-25T17:33:35.891876+00:00",
+  "updatedAt": "2026-06-25T22:57:39.538351+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 27,
+  "totalLocked": 29,
   "espnEvents": 6,
   "results": {
     "1": {
@@ -163,6 +163,36 @@
       "homeAdvances": true,
       "source": "Verified (ESPN)",
       "locked": true
+    },
+    "29": {
+      "id": 29,
+      "home": "Germany",
+      "away": "Ecuador",
+      "homeScore": 1,
+      "awayScore": 2,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-25T22:57:39.538115+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": false
+    },
+    "30": {
+      "id": 30,
+      "home": "Cura\u00e7ao",
+      "away": "C\u00f4te d'Ivoire",
+      "homeScore": 0,
+      "awayScore": 2,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-25T22:57:39.538085+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": false
     },
     "31": {
       "id": 31,

@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-26T17:17:39.820284+00:00",
+  "updatedAt": "2026-06-26T21:50:09.379510+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 29,
+  "totalLocked": 31,
   "espnEvents": 6,
   "results": {
     "1": {
@@ -299,6 +299,36 @@
       "status": "post",
       "source": "ESPN (auto)",
       "updatedAt": "2026-06-16T23:51:06.547771+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
+    },
+    "53": {
+      "id": 53,
+      "home": "France",
+      "away": "Norway",
+      "homeScore": 4,
+      "awayScore": 1,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-26T21:50:09.379233+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
+    },
+    "54": {
+      "id": 54,
+      "home": "Senegal",
+      "away": "Iraq",
+      "homeScore": 5,
+      "awayScore": 0,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-26T21:50:09.379265+00:00",
       "penalties": false,
       "homePens": 0,
       "awayPens": 0,

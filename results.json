@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-27T20:37:02.802431+00:00",
+  "updatedAt": "2026-06-28T00:15:38.003237+00:00",
   "source": "ESPN public API + verified manual results",
-  "totalLocked": 31,
+  "totalLocked": 33,
   "espnEvents": 6,
   "results": {
     "1": {
@@ -408,6 +408,36 @@
       "homePens": 0,
       "awayPens": 0,
       "homeAdvances": false
+    },
+    "71": {
+      "id": 71,
+      "home": "England",
+      "away": "Panama",
+      "homeScore": 2,
+      "awayScore": 0,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-28T00:15:38.003000+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
+    },
+    "72": {
+      "id": 72,
+      "home": "Croatia",
+      "away": "Ghana",
+      "homeScore": 2,
+      "awayScore": 1,
+      "locked": true,
+      "status": "post",
+      "source": "ESPN (auto)",
+      "updatedAt": "2026-06-28T00:15:38.002970+00:00",
+      "penalties": false,
+      "homePens": 0,
+      "awayPens": 0,
+      "homeAdvances": true
     }
   }
 }

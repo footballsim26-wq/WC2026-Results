@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-01T14:46:49.151610+00:00",
+  "updatedAt": "2026-10-01T19:52:55.972082+00:00",
   "source": "ESPN public API + verified manual results",
   "totalLocked": 33,
-  "espnEvents": 0,
+  "espnEvents": 1,
   "results": {
     "1": {
       "id": 1,
